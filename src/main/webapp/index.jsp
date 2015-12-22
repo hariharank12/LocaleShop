@@ -4,6 +4,6 @@
 <%
 out.println("Your IP address is " + request.getRemoteAddr());
 %>
-<h2>Hello Subha!</h2>
+<h2>Hello!</h2>
 </body>
-</html>
+</html>	
